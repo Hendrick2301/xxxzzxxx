@@ -3,4 +3,4 @@
 
  Treinando Repositórios.
  
- Esta lilha foi feita direto no site.
+ Esta linlha foi feita direto no site.
