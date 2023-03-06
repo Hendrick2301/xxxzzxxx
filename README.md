@@ -1,2 +1,4 @@
 # Hello, world
- Primeiro repositório
+ Primeiro repositório.
+
+ Treinando Repositórios.
